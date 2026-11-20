@@ -19,7 +19,7 @@ dependencies = [
     "opentelemetry-api~=1.42.0",
     "opentelemetry-sdk~=1.42.0",
     "opentelemetry-exporter-otlp-proto-http~=1.42.0",
-    "tomli~=2.0.2",
+    "tomli~=2.5.0",
 ]
 
 [project.urls]
